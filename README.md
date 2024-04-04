@@ -15,4 +15,4 @@
 <br>
 <br>
 
-<img src="[https://github.com/Alineaalvess/projeto.cafeteria/blob/main/assets/img--caf-perfil.jpg?raw=true](https://github.com/Alineaalvess/projeto.telalogin/blob/main/tela-login.png?raw=true)">
+<img src="https://github.com/Alineaalvess/projeto.telalogin/blob/main/tela-login.png?raw=true">
